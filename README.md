@@ -24,7 +24,8 @@ A simple and responsive **Image Slider** built with **HTML, CSS, and JavaScript*
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/DhirendraSingh12/Image_Slider.git
-   cd image-slider
+   cd Image_Slider
 
 2. **Run the project**
-    Open index.html in your browser.
+
+   Open index.html in your browser.
